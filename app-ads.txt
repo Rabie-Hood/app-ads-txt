@@ -1,5 +1,0 @@
-# SPIC-Dev / GOB
-# App: ma.railsasi.radio.adat
-google.com, pub-6404173707312821, DIRECT, f08c47fec0942fa0
-chartboost.com, 6a5e8456e6334231ca603d28, DIRECT, 1234567890abcdef
-inmobi.com, 10000124870, DIRECT, 83e75a7ae333ca9d58b27642a61a4c8d
